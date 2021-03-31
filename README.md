@@ -2,4 +2,4 @@
 Collection of Jupyter notebooks
 
 # Contents
-- [get_started.ipynb](https://github.com/afeborgeaud/notebooks/blob/main/get_started.ipynb) [[html](https://github.com/afeborgeaud/notebooks/blob/c930c654e578276281d8912424ff2212c214652a/html/get_started.html)]: from installing anaconda to simple examples using scikit-learn
+- [get_started.ipynb](https://raw.githubusercontent.com/afeborgeaud/notebooks/main/get_started.ipynb) [[html](https://raw.githubusercontent.com/afeborgeaud/notebooks/main/html/get_started.html)]: from installing anaconda to simple examples using scikit-learn
